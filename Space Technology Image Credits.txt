@@ -1,0 +1,11 @@
+Satellites.Vb
+
+Sputnik - https://commons.wikimedia.org/wiki/File:Sputnik_asm.jpg
+
+Cubesat - https://commons.wikimedia.org/wiki/File:Two_3U_CubeSats.jpg
+
+Spacecraft.Vb
+
+Voyager - https://en.wikipedia.org/wiki/File:Voyager_spacecraft.jpg
+
+Apollo - https://commons.wikimedia.org/wiki/File:Apollo_CSM_lunar_orbit.jpg

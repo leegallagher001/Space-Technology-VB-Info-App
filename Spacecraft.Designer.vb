@@ -1,0 +1,174 @@
+﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>
+Partial Class Spacecraft
+    Inherits System.Windows.Forms.Form
+
+    'Form overrides dispose to clean up the component list.
+    <System.Diagnostics.DebuggerNonUserCode()>
+    Protected Overrides Sub Dispose(disposing As Boolean)
+        Try
+            If disposing AndAlso components IsNot Nothing Then
+                components.Dispose()
+            End If
+        Finally
+            MyBase.Dispose(disposing)
+        End Try
+    End Sub
+
+    'Required by the Windows Form Designer
+    Private components As System.ComponentModel.IContainer
+
+    'NOTE: The following procedure is required by the Windows Form Designer
+    'It can be modified using the Windows Form Designer.  
+    'Do not modify it using the code editor.
+    <System.Diagnostics.DebuggerStepThrough()>
+    Private Sub InitializeComponent()
+        LabelTitle = New Label()
+        ButtonSatellites = New Button()
+        ButtonSpacecraft = New Button()
+        ButtonLanders = New Button()
+        ButtonSpaceStations = New Button()
+        LabelFooter = New Label()
+        RichTextBoxInfo = New RichTextBox()
+        PictureBox1 = New PictureBox()
+        PictureBox2 = New PictureBox()
+        CType(PictureBox1, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox2, ComponentModel.ISupportInitialize).BeginInit()
+        SuspendLayout()
+        ' 
+        ' LabelTitle
+        ' 
+        LabelTitle.BackColor = Color.Navy
+        LabelTitle.Font = New Font("HP Simplified Hans", 35.9999962F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
+        LabelTitle.ForeColor = Color.White
+        LabelTitle.Location = New Point(12, 9)
+        LabelTitle.Name = "LabelTitle"
+        LabelTitle.Size = New Size(1058, 122)
+        LabelTitle.TabIndex = 0
+        LabelTitle.Text = "Space Technology"
+        LabelTitle.TextAlign = ContentAlignment.MiddleCenter
+        ' 
+        ' ButtonSatellites
+        ' 
+        ButtonSatellites.BackColor = Color.Black
+        ButtonSatellites.FlatStyle = FlatStyle.Flat
+        ButtonSatellites.Font = New Font("HP Simplified Hans", 17.9999981F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
+        ButtonSatellites.ForeColor = Color.White
+        ButtonSatellites.Location = New Point(12, 147)
+        ButtonSatellites.Name = "ButtonSatellites"
+        ButtonSatellites.Size = New Size(179, 113)
+        ButtonSatellites.TabIndex = 1
+        ButtonSatellites.Text = "Satellites"
+        ButtonSatellites.UseVisualStyleBackColor = False
+        ' 
+        ' ButtonSpacecraft
+        ' 
+        ButtonSpacecraft.BackColor = Color.White
+        ButtonSpacecraft.FlatStyle = FlatStyle.Flat
+        ButtonSpacecraft.Font = New Font("HP Simplified Hans", 17.9999981F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
+        ButtonSpacecraft.ForeColor = Color.Black
+        ButtonSpacecraft.Location = New Point(12, 275)
+        ButtonSpacecraft.Name = "ButtonSpacecraft"
+        ButtonSpacecraft.Size = New Size(179, 113)
+        ButtonSpacecraft.TabIndex = 2
+        ButtonSpacecraft.Text = "Spacecraft"
+        ButtonSpacecraft.UseVisualStyleBackColor = False
+        ' 
+        ' ButtonLanders
+        ' 
+        ButtonLanders.BackColor = Color.Black
+        ButtonLanders.FlatStyle = FlatStyle.Flat
+        ButtonLanders.Font = New Font("HP Simplified Hans", 17.9999981F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
+        ButtonLanders.ForeColor = Color.White
+        ButtonLanders.Location = New Point(12, 404)
+        ButtonLanders.Name = "ButtonLanders"
+        ButtonLanders.Size = New Size(179, 113)
+        ButtonLanders.TabIndex = 3
+        ButtonLanders.Text = "Landers"
+        ButtonLanders.UseVisualStyleBackColor = False
+        ' 
+        ' ButtonSpaceStations
+        ' 
+        ButtonSpaceStations.BackColor = Color.Black
+        ButtonSpaceStations.FlatStyle = FlatStyle.Flat
+        ButtonSpaceStations.Font = New Font("HP Simplified Hans", 17.9999981F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
+        ButtonSpaceStations.ForeColor = Color.White
+        ButtonSpaceStations.Location = New Point(12, 534)
+        ButtonSpaceStations.Name = "ButtonSpaceStations"
+        ButtonSpaceStations.Size = New Size(179, 113)
+        ButtonSpaceStations.TabIndex = 4
+        ButtonSpaceStations.Text = "Space Stations"
+        ButtonSpaceStations.UseVisualStyleBackColor = False
+        ' 
+        ' LabelFooter
+        ' 
+        LabelFooter.BackColor = Color.Navy
+        LabelFooter.Font = New Font("HP Simplified Hans", 13.8F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
+        LabelFooter.ForeColor = Color.White
+        LabelFooter.Location = New Point(12, 664)
+        LabelFooter.Name = "LabelFooter"
+        LabelFooter.Size = New Size(1058, 80)
+        LabelFooter.TabIndex = 5
+        LabelFooter.Text = "App created by Lee Gallagher 2025"
+        LabelFooter.TextAlign = ContentAlignment.MiddleCenter
+        ' 
+        ' RichTextBoxInfo
+        ' 
+        RichTextBoxInfo.Location = New Point(208, 147)
+        RichTextBoxInfo.Name = "RichTextBoxInfo"
+        RichTextBoxInfo.Size = New Size(496, 500)
+        RichTextBoxInfo.TabIndex = 6
+        RichTextBoxInfo.Text = ""
+        ' 
+        ' PictureBox1
+        ' 
+        PictureBox1.Image = My.Resources.Resources.Voyager_spacecraft
+        PictureBox1.Location = New Point(721, 147)
+        PictureBox1.Name = "PictureBox1"
+        PictureBox1.Size = New Size(349, 241)
+        PictureBox1.SizeMode = PictureBoxSizeMode.StretchImage
+        PictureBox1.TabIndex = 7
+        PictureBox1.TabStop = False
+        ' 
+        ' PictureBox2
+        ' 
+        PictureBox2.Image = My.Resources.Resources.Apollo_CSM_lunar_orbit
+        PictureBox2.Location = New Point(721, 404)
+        PictureBox2.Name = "PictureBox2"
+        PictureBox2.Size = New Size(349, 243)
+        PictureBox2.SizeMode = PictureBoxSizeMode.StretchImage
+        PictureBox2.TabIndex = 8
+        PictureBox2.TabStop = False
+        ' 
+        ' Spacecraft
+        ' 
+        AutoScaleDimensions = New SizeF(8F, 20F)
+        AutoScaleMode = AutoScaleMode.Font
+        BackColor = Color.MidnightBlue
+        ClientSize = New Size(1082, 753)
+        Controls.Add(PictureBox2)
+        Controls.Add(PictureBox1)
+        Controls.Add(RichTextBoxInfo)
+        Controls.Add(LabelFooter)
+        Controls.Add(ButtonSpaceStations)
+        Controls.Add(ButtonLanders)
+        Controls.Add(ButtonSpacecraft)
+        Controls.Add(ButtonSatellites)
+        Controls.Add(LabelTitle)
+        Name = "Spacecraft"
+        Text = "Space Technology - Spacecraft"
+        CType(PictureBox1, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox2, ComponentModel.ISupportInitialize).EndInit()
+        ResumeLayout(False)
+    End Sub
+
+    Friend WithEvents LabelTitle As Label
+    Friend WithEvents ButtonSatellites As Button
+    Friend WithEvents ButtonSpacecraft As Button
+    Friend WithEvents ButtonLanders As Button
+    Friend WithEvents ButtonSpaceStations As Button
+    Friend WithEvents LabelFooter As Label
+    Friend WithEvents RichTextBoxInfo As RichTextBox
+    Friend WithEvents PictureBox1 As PictureBox
+    Friend WithEvents PictureBox2 As PictureBox
+
+End Class
