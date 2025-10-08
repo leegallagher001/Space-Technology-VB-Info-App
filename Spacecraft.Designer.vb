@@ -31,6 +31,8 @@ Partial Class Spacecraft
         RichTextBoxInfo = New RichTextBox()
         PictureBox1 = New PictureBox()
         PictureBox2 = New PictureBox()
+        ButtonHome = New Button()
+        ButtonExit = New Button()
         CType(PictureBox1, ComponentModel.ISupportInitialize).BeginInit()
         CType(PictureBox2, ComponentModel.ISupportInitialize).BeginInit()
         SuspendLayout()
@@ -139,12 +141,42 @@ Partial Class Spacecraft
         PictureBox2.TabIndex = 8
         PictureBox2.TabStop = False
         ' 
+        ' ButtonHome
+        ' 
+        ButtonHome.BackColor = Color.Black
+        ButtonHome.BackgroundImage = My.Resources.Resources.home_icon1
+        ButtonHome.BackgroundImageLayout = ImageLayout.Stretch
+        ButtonHome.FlatStyle = FlatStyle.Flat
+        ButtonHome.ForeColor = Color.White
+        ButtonHome.ImageAlign = ContentAlignment.TopLeft
+        ButtonHome.Location = New Point(12, 677)
+        ButtonHome.Name = "ButtonHome"
+        ButtonHome.Size = New Size(64, 60)
+        ButtonHome.TabIndex = 10
+        ButtonHome.TextImageRelation = TextImageRelation.ImageAboveText
+        ButtonHome.UseVisualStyleBackColor = False
+        ' 
+        ' ButtonExit
+        ' 
+        ButtonExit.BackColor = Color.Black
+        ButtonExit.BackgroundImage = My.Resources.Resources.exit_icon
+        ButtonExit.BackgroundImageLayout = ImageLayout.Stretch
+        ButtonExit.FlatStyle = FlatStyle.Flat
+        ButtonExit.ForeColor = Color.White
+        ButtonExit.Location = New Point(1006, 677)
+        ButtonExit.Name = "ButtonExit"
+        ButtonExit.Size = New Size(64, 60)
+        ButtonExit.TabIndex = 11
+        ButtonExit.UseVisualStyleBackColor = False
+        ' 
         ' Spacecraft
         ' 
         AutoScaleDimensions = New SizeF(8F, 20F)
         AutoScaleMode = AutoScaleMode.Font
         BackColor = Color.MidnightBlue
         ClientSize = New Size(1082, 753)
+        Controls.Add(ButtonExit)
+        Controls.Add(ButtonHome)
         Controls.Add(PictureBox2)
         Controls.Add(PictureBox1)
         Controls.Add(RichTextBoxInfo)
@@ -170,5 +202,7 @@ Partial Class Spacecraft
     Friend WithEvents RichTextBoxInfo As RichTextBox
     Friend WithEvents PictureBox1 As PictureBox
     Friend WithEvents PictureBox2 As PictureBox
+    Friend WithEvents ButtonHome As Button
+    Friend WithEvents ButtonExit As Button
 
 End Class

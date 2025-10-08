@@ -28,6 +28,8 @@ Partial Class Form1
         ButtonLanders = New Button()
         ButtonSpaceStations = New Button()
         LabelFooter = New Label()
+        ButtonHome = New Button()
+        ButtonExit = New Button()
         SuspendLayout()
         ' 
         ' LabelTitle
@@ -106,12 +108,42 @@ Partial Class Form1
         LabelFooter.Text = "App created by Lee Gallagher 2025"
         LabelFooter.TextAlign = ContentAlignment.MiddleCenter
         ' 
+        ' ButtonHome
+        ' 
+        ButtonHome.BackColor = Color.Black
+        ButtonHome.BackgroundImage = My.Resources.Resources.home_icon1
+        ButtonHome.BackgroundImageLayout = ImageLayout.Stretch
+        ButtonHome.FlatStyle = FlatStyle.Flat
+        ButtonHome.ForeColor = Color.White
+        ButtonHome.ImageAlign = ContentAlignment.TopLeft
+        ButtonHome.Location = New Point(12, 674)
+        ButtonHome.Name = "ButtonHome"
+        ButtonHome.Size = New Size(64, 60)
+        ButtonHome.TabIndex = 6
+        ButtonHome.TextImageRelation = TextImageRelation.ImageAboveText
+        ButtonHome.UseVisualStyleBackColor = False
+        ' 
+        ' ButtonExit
+        ' 
+        ButtonExit.BackColor = Color.Black
+        ButtonExit.BackgroundImage = My.Resources.Resources.exit_icon
+        ButtonExit.BackgroundImageLayout = ImageLayout.Stretch
+        ButtonExit.FlatStyle = FlatStyle.Flat
+        ButtonExit.ForeColor = Color.White
+        ButtonExit.Location = New Point(1006, 674)
+        ButtonExit.Name = "ButtonExit"
+        ButtonExit.Size = New Size(64, 60)
+        ButtonExit.TabIndex = 7
+        ButtonExit.UseVisualStyleBackColor = False
+        ' 
         ' Form1
         ' 
         AutoScaleDimensions = New SizeF(8F, 20F)
         AutoScaleMode = AutoScaleMode.Font
         BackColor = Color.MidnightBlue
         ClientSize = New Size(1082, 753)
+        Controls.Add(ButtonExit)
+        Controls.Add(ButtonHome)
         Controls.Add(LabelFooter)
         Controls.Add(ButtonSpaceStations)
         Controls.Add(ButtonLanders)
@@ -129,5 +161,7 @@ Partial Class Form1
     Friend WithEvents ButtonLanders As Button
     Friend WithEvents ButtonSpaceStations As Button
     Friend WithEvents LabelFooter As Label
+    Friend WithEvents ButtonHome As Button
+    Friend WithEvents ButtonExit As Button
 
 End Class
