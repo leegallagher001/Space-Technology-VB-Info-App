@@ -1,4 +1,8 @@
 ﻿Public Class SpaceStations
+
+    Private Sub SpaceStations_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        RichTextBoxInfo.LoadFile("space_stations.txt", RichTextBoxStreamType.PlainText)
+    End Sub
     Private Sub ButtonSatellites_Click(sender As Object, e As EventArgs) Handles ButtonSatellites.Click
         Me.Hide()
         Satellites.Show()
@@ -22,4 +26,5 @@
     Private Sub ButtonExit_Click(sender As Object, e As EventArgs) Handles ButtonExit.Click
         Application.Exit()
     End Sub
+
 End Class

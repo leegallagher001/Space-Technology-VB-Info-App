@@ -1,4 +1,8 @@
 ﻿Public Class Landers
+
+    Private Sub Landers_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        RichTextBoxInfo.LoadFile("landers.txt", RichTextBoxStreamType.PlainText)
+    End Sub
     Private Sub ButtonSatellites_Click(sender As Object, e As EventArgs) Handles ButtonSatellites.Click
         Me.Hide()
         Satellites.Show()

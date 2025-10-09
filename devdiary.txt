@@ -1,0 +1,11 @@
+SPACE TECHNOLOGY VISUAL BASIC APP
+
+08/10/2025
+
+Began work on the application, making the first five pages (Home, Satellites, Spacecraft, Landers, Space Stations) and adding images. Buttons for page navigation as well as home and exit buttons added and linked - preliminary testing suggests that they are working well.
+
+Next steps:
+
+- Begin work on RTF documents that the pages will display.
+
+- Think about how I may go about adding a couple of additional pages (a gallery and a quiz page).
