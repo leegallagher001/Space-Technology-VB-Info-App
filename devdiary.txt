@@ -9,3 +9,11 @@ Next steps:
 - Begin work on RTF documents that the pages will display.
 
 - Think about how I may go about adding a couple of additional pages (a gallery and a quiz page).
+
+09/10/2025
+
+Started work on text files for the app. I initially used .rtf (Rich Text Format) files but as it turns out getting a text file to load into a Visual Basic RichTextBox is considerably more complicated than I thought - I thought it would just be a matter of loading the file into it upon page loading, but it turns out it only accepts certain formats. Every day is a school day!
+
+Next steps:
+
+- Continue work on text files
