@@ -17,3 +17,7 @@ Started work on text files for the app. I initially used .rtf (Rich Text Format)
 Next steps:
 
 - Continue work on text files
+
+10/10/2025
+
+Didn't have much time today but it struck me that I could probably style the RichTextBox elements a little, so I gave them a dark grey background with white text in a slightly bigger size with the Consolas font. Will probably experiment with other changes when I have the time. Still need to complete the RTFs after all.
