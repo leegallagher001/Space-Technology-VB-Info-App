@@ -115,6 +115,9 @@ Partial Class Satellites
         ' 
         ' RichTextBoxInfo
         ' 
+        RichTextBoxInfo.BackColor = Color.FromArgb(CByte(64), CByte(64), CByte(64))
+        RichTextBoxInfo.Font = New Font("Consolas", 12F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
+        RichTextBoxInfo.ForeColor = Color.White
         RichTextBoxInfo.Location = New Point(208, 147)
         RichTextBoxInfo.Name = "RichTextBoxInfo"
         RichTextBoxInfo.Size = New Size(459, 500)
