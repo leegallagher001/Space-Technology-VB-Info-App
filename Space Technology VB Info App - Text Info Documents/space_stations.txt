@@ -1,0 +1,31 @@
+SPACE STATIONS
+
+Once the early days of human spaceflight were over and it was proven that human beings were capable of staying in space for days or weeks, the US and the Soviet Union began work on space stations that would allow people to stay in space for not just weeks, but months and eventually years.
+
+-- Salyut --
+
+The first space station, built by the Soviets, was Salyut 1, launched in April 1971. This kick-started a series of Salyut space stations that totalled four civilian and two military stations (these were codenamed "Almaz"). These consisted of a single module that could support 3 cosmonauts. It was a large program and featured many missions, which consisted of both many successes and many tragic failures, which would prove invaluable when the Soviets built their next space station.
+
+-- Skylab --
+
+For the United States and NASA, their first experience with space station development was the Skylab program, launched in May 1973. Similar to the Salyut stations, it consisted of a single module and supported a crew of 3 astronauts. This program was less large in scope than the Salyut programme, but featured three visits of increasing duration, with the longest being 84 days.
+
+-- Mir --
+
+The first of the multi-module space stations, Mir was assembled over multiple launches from 1986 to 1996. This station was designed to be occupied by a crew of 3 for long-duration stays or by larger crews for short visits. The average duration for a stay on Mir was 3-6 months, however some stays were much longer - in fact, the record for the longest continuous stay in space, which is held by cosmonaut Valeri Polyakov for spending 437 days (more than 14 months) in space, was achieved on Mir.
+
+-- International Space Station (ISS) --
+
+A collaboration between NASA, Roscosmos, CSA, ESA as well as many other partner space agencies, the International Space Station is the oldest space station currently flying, as well as the largest ever constructed so far. Capable of hosting a crew of 6-7 for long-duration stays of 6-12 months, the ISS has allowed humanity to host a continuous presence in space since November 2nd 2000, when long-duration stays began. As of August 2025, 290 individuals have visited the ISS, making it the most visited of any space station so far.
+
+-- Tiangong Space Station --
+
+In the mid-2010s, the Chinese Manned Space Agency (CMSA) began drafting plans and experimenting with space stations, launching a number of modules and conducting short stays in space. The ultimate result of this is Tiangong, the newest space station currently flying. A multi-module station, it is somewhat smaller than the ISS, capable of carrying 3 taikonauts for long visits of up to 180 days, and 6 crew for short visits.
+
+-- Future - Haven-1 --
+
+Work has began on a number of concepts for privately operated space stations, capable of commercial scientific research and space tourism. Of these, the simplest and likely most on-schedule of these is "Haven-1", built by Vast Space. A single large module akin to the early stations, Haven-1 is scheduled to launch in May 2026. It is designed to sustain a crew of 4 for up to 30 days. Shortly after the station's launch, the Crew Dragon mission Vast-1 is schedule for June 2026 to visit the orbital outpost for the first time.
+
+-- Future - Lunar Gateway --
+
+All of the space stations discussed so far have been in LEO (Low Earth Orbit). However, as interest in lunar exploration has been renewed as part of the NASA Artemis program and Chinese ambition for a crewed lunar mission by 2030, a lunar space station is now under development by NASA. Named the Lunar Gateway, this will be a small but multi-module outpost placed in a polar near-rectilinear halo orbit (NRHO), a seven-day orbit that takes it from within 3,000km of the Moon at it's closest and up to 70,000km away at it's farthest, but orbits in a way that allows access to a large portion of the Moon's surface for landing missions as well as continuous radio contact with Mission Control back on Earth.

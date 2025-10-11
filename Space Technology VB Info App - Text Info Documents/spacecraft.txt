@@ -1,0 +1,8 @@
+SPACECRAFT
+
+A spacecraft can refer to any vehicle that is designed to operate in the vacuum of space. Technically, every category of technology discussed in this app could technically fit the definition of spacecraft, however, for the purposes of this section, I define spacecraft from the other categories as being types of craft that travel somewhere - from Earth to the Moon, or to a space station, for example.
+
+By far the most common way we have of exploring the Solar System is through unmanned probes. These are designed to be launched from Earth with a specific destination (or destinations) in mind. Every planet in our Solar System has been visited by a space probe at some point, and there have also been several missions to other bodies such as asteroids, comets and dwarf planets.
+
+Some probes are designed to conduct a simple flyby of the planet or body they are visiting, whereas others are designed to actually enter orbit around the world they are investigating, essentially turning into a satellite to conduct more thorough monitoring than would be possible with a flyby mission.
+

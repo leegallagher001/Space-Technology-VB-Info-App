@@ -1,0 +1,5 @@
+SATELLITES
+
+A satellite is defined as 'an object orbiting a celestial body'. This definition can technically apply to natural objects - our moon is a satellite of Earth, and the Earth is a satellite of the Sun.
+
+However, in the most common sense, a satellite refers to a spacecraft that has been launched into orbit for the purposes of serving a function that is helpful to people on Earth. Satellites can have a wide variety of functions - weather monitoring and Earth observation, military recon (spy satellites), communications (satellite phones, TV, radio and internet broadcasting) and scientific research (carrying experimental payloads) are all functions that can be carried out by satellites. As the cost of satellites has reduced over time, some satellites are even operated by large universities and amateur radio groups.
