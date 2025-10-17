@@ -2,7 +2,36 @@ SPACECRAFT
 
 A spacecraft can refer to any vehicle that is designed to operate in the vacuum of space. Technically, every category of technology discussed in this app could technically fit the definition of spacecraft, however, for the purposes of this section, I define spacecraft from the other categories as being types of craft that travel somewhere - from Earth to the Moon, or to a space station, for example.
 
+----- ROBOTIC PROBES -----
+
 By far the most common way we have of exploring the Solar System is through unmanned probes. These are designed to be launched from Earth with a specific destination (or destinations) in mind. Every planet in our Solar System has been visited by a space probe at some point, and there have also been several missions to other bodies such as asteroids, comets and dwarf planets.
 
 Some probes are designed to conduct a simple flyby of the planet or body they are visiting, whereas others are designed to actually enter orbit around the world they are investigating, essentially turning into a satellite to conduct more thorough monitoring than would be possible with a flyby mission.
+
+----- CREWED SPACECRAFT -----
+
+Since the beginnings of space exploration (and even preceding the first space launches) the idea of people flying to, working in and even living in space has captivated the imagination of visionaries throughout history.
+
+Most manned exploration of space so far has been confined to Low Earth Orbit (LEO), with the first manned spaceflights as well as the testing of new spacecraft and critical technologies such as docking and space stations being carried out here. The notable exception to this is of course NASA's Apollo program in 1968-1972. Listed below are a few of the most notable crewed spacecraft from past, present and future.
+
+-- Soyuz (past/present) --
+
+The workhorse of the Soviet and now Russian (Roscosmos) space programs, the Soyuz is a 3-person spacecraft capable of taking a crew to LEO. Initially designed for lunar flights after the Vostok and Voskhod programs, the Soyuz sadly never got the opportunity to perform a lunar flight due to the Soviet's moon rocket, the N-1, being plagued with technical issues. However, it found a new lease of life as a shuttle between Earth and the Mir & ISS space stations, and will likely be a mainstay in spaceflight for years to come.
+
+-- Space Shuttle (past) --
+
+Abandoning the capsule designs of the early days of spaceflight, the Space Shuttle was the first (and so far only the only crewed) true orbital spaceplane, carrying a crew of up to 7 people to LEO. The Shuttle was intended to democratise space travel, opening it up to more ordinary people such as payload specialists and eventually ordinary civilians. It was the first spacecraft to be partially reusable, with the orbiter (the plane part) as well as the solid rocket boosters being reused multiple times. The Shuttle's highlight missions included deploying satellites from it's massive payload bay, fixing the Hubble space telescope, and transporting crew to Mir and the ISS. The program came to an end however, as with two very public disasters that resulted in the loss of two orbiters and 14 crew, NASA came to the conclusion that a new system would be best, and that it was time to build a spacecraft capable of missions beyond LEO again.
+
+-- Apollo (past) --
+
+The only spacecraft so far to transport people beyond LEO, the Apollo spacecraft was a 3-person spacecraft that followed on from NASA's Mercury and Gemini programs. Between 1968 and 1972, the Apollo spacecraft carried 24 people beyond LEO to the Moon, with 12 of those individuals landing on the Moon using the LEM (lunar module - the lander). Other notable missions include Apollo-Soyuz, where an Apollo spacecraft and a Soyuz spacecraft docked in orbit, and the three Skylab missions.
+
+-- SpaceX Dragon V2 (Crew Dragon) (present) --
+
+Among the most modern crewed spacecraft designs, the Crew Dragon is capable of flying 4 astronauts to LEO. Initially designed for crew transport to the ISS via NASA's Commercial Crew Program, the Crew Dragon has further proven itself by opening a market for space tourism, flying multiple private flights to the ISS as well as free-flying flights such as Inspiration4, Polaris Dawn and Fram2.
+
+-- NASA Orion (present/future) --
+
+The successor to the Space Shuttle, the Orion is the first spacecraft designed since the Apollo program for the purposes of flying crews beyond LEO, on missions to the Moon as part of the Artemis program, and eventually missions to Mars as well. Capable of carrying a crew of 4, the spacecraft has already been flown on an uncrewed mission around the Moon on Artemis 1, and it scheduled to carry a crew of 4 astronauts on a circumlunar flight as early as February 2026.
+
 
